@@ -4,21 +4,21 @@ Luke Lattyak,
 I created functions to change the properties of pixels found in images.
 Functions:
 
-Remove Red 
-Remove Green
+Remove Red, 
+Remove Green,
 Remove Blue 
 
-Add Red 
-Add Green
-Add Blue 
+Add Red, 
+Add Green,
+Add Blue, 
 
-Reduce Red
-Reduce Green
-Reduce Blue 
+Reduce Red,
+Reduce Green,
+Reduce Blue, 
 
-Make Grayscale 
-Make Negative 
-Make Negative GrayScale 
+Make Grayscale, 
+Make Negative, 
+Make Negative GrayScale, 
 
 Make Picture look like the sun is setting
 
